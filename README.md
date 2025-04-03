@@ -102,7 +102,9 @@ As a data analyst at TechCorp, this analysis aims to:
 ### Category 4: Statistical Significance  
 - **Insight 1**: Pooled variance (0.000069) ensured precise effect size measurement.  
 - **Insight 2**: Margin of error (0.83%) validated the robustness of results.  
-- **Insight 3**: Critical value (1.64) and test statistic (-10.44) confirmed significance.  
+- **Insight 3**: Critical value (1.64) and test statistic (-10.44) confirmed significance.
+  
+![Screenshot_4-4-2025_01132_chatgpt com](https://github.com/user-attachments/assets/09d68d5f-199d-4e2a-b26e-e313bf4f2bb6)
 
 ---
 
@@ -118,7 +120,9 @@ As a data analyst at TechCorp, this analysis aims to:
 ## Technical Details  
 **Tools Used:**  
 - **Python**: Pandas (data cleaning), Scipy (statistical tests), Matplotlib (visualization).  
-- **Jupyter Notebook**: Reproducible analysis and documentation.  
+- **Jupyter Notebook**: Reproducible analysis and documentation.
+- **Figma**
+- **Power Bi**
  
 
 ---
