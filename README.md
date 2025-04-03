@@ -82,7 +82,8 @@ As a data analyst at TechCorp, this analysis aims to:
 - **Insight 4**: Statistical significance (Z-score = 10.44, p < 0.001) rejects the null hypothesis.  
 
 **Visualization:**  
- ![output](https://github.com/user-attachments/assets/b0f3a47f-6082-40b3-a09e-36b1d8c37bfe)
+![67514ea6-54f0-40fb-b865-94b4b1d6ffb4](https://github.com/user-attachments/assets/8eac91a1-f420-4664-bae5-5ef6e743435d)
+
 
 
 ### Category 2: User Engagement Metrics  
