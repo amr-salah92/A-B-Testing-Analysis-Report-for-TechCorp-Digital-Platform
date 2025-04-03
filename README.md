@@ -101,7 +101,7 @@ As a data analyst at TechCorp, this analysis aims to:
 ### Category 4: Statistical Significance  
 - **Insight 1**: Pooled variance (0.000069) ensured precise effect size measurement.  
 - **Insight 2**: Margin of error (0.83%) validated the robustness of results.  
-- **Insight 3**: Critical value (1.64) and test statistic (10.44) confirmed significance.  
+- **Insight 3**: Critical value (1.64) and test statistic (-10.44) confirmed significance.  
 
 ---
 
