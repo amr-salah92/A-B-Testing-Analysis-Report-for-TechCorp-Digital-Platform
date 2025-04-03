@@ -27,6 +27,7 @@ TechCorp is a digital platform operating in the SaaS industry since 2018, offeri
 
 ---
 
+
 ## Project Goals  
 As a data analyst at TechCorp, this analysis aims to:  
 1. Determine if the Treatment group’s conversion rate is statistically significant.  
@@ -55,6 +56,9 @@ As a data analyst at TechCorp, this analysis aims to:
 - **Conversion**: Binary outcome (Yes/No).  
 - **Device**: Desktop (52%) or Mobile (48%).  
 - **Location**: UK regions (England, Scotland, Wales, Northern Ireland).  
+
+
+![Screenshot_4-4-2025_0177_dbdiagram io](https://github.com/user-attachments/assets/528349e1-bcdd-4866-86d6-e56f63c46d98)
 
 **Initial Checks:**  
 - No missing values or duplicates.  
